@@ -1,0 +1,6 @@
+xlsxwriter
+bs4
+openpyxl
+
+# 其他依赖请自行添加
+pymysql
