@@ -1,13 +1,5 @@
 # 天猫淘宝关键字商品搜索说明
 
-我封装的Go爬虫库更不错哦[https://github.com/hunterhug/GoSpider](https://github.com/hunterhug/GoSpider)效果不错！
-
-更多参考：[一只尼玛博客园](http://www.cnblogs.com/nima/p/5324490.html)
-
-![](doc/seeme0.jpg)
-
-仍然能跑，2017/6。
-
 ```
 一个抓取淘宝的Python爬虫
 ---------------------------------------------------------
