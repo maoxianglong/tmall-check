@@ -180,8 +180,7 @@ cd source
 python help.py
 ```
 
-# 四.演示
-![](doc/seeme1.jpg)
+# 四.演示 
 ![](doc/seeme2.jpg)
 ![](doc/seeme3.jpg)
 ![](doc/seeme4.jpg)
